@@ -4,25 +4,28 @@ Soy Álvaro, un administrador de sistemas apasionado por la tecnología y en con
 
 ## Tecnologías que Utilizo 🚀
 
-- 💻 Lenguajes: Python, JavaScript
-- 🌐 Frontend: HTML, CSS, React
-- 🖥️ Backend: Node.js, Express
-- 🛢️ Bases de Datos: MongoDB
-- 🔧 Herramientas: Git, VS Code, Postman
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![HTML](https://img.shields.io/badge/-HTML-red)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![React](https://img.shields.io/badge/-React-blue)
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![Bash](https://img.shields.io/badge/-Bash-green)
+
 
 ## Contacto 📬
 
 Siempre estoy emocionado por colaborar en proyectos interesantes y aprender de la comunidad. Si compartes intereses similares o simplemente deseas conectarte, no dudes en contactarme:
 
-- 📧 Email: tuemail@example.com
+- 📧 Email: estevezmunozalvaro@gmail.com
 - 💼 LinkedIn: [Álvaro Estévez](www.linkedin.com/in/álvaro-estévez-muñoz-99484b215)
 
 ## Estadísticas de GitHub 📊
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvaroem17&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alvaroem17&theme=dark)](https://git.io/streak-stats)
 
 ¡Gracias por visitar mi perfil! Espero poder colaborar y aprender junto a la comunidad de GitHub.
 
 ¡Saludos!
-[Álvaro Estévez.]
+Álvaro Estévez.
 
