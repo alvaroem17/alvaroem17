@@ -9,7 +9,10 @@ Soy Álvaro, un administrador de sistemas apasionado por la tecnología y en con
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
 ![Bash](https://img.icons8.com/color/48/000000/console.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+
 
 ## Contacto 📬
 
