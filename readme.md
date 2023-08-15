@@ -4,13 +4,12 @@ Soy Álvaro, un administrador de sistemas apasionado por la tecnología y en con
 
 ## Tecnologías que Utilizo 🚀
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![HTML](https://img.shields.io/badge/-HTML-red)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![React](https://img.shields.io/badge/-React-blue)
-![SQL](https://img.shields.io/badge/-SQL-blue)
-![Bash](https://img.shields.io/badge/-Bash-green)
-
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![Bash](https://img.icons8.com/color/48/000000/console.png)
 
 ## Contacto 📬
 
