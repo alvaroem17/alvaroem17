@@ -16,8 +16,6 @@ Soy Álvaro, un administrador de sistemas apasionado por la tecnología y en con
 
 ## Contacto 📬
 
-Siempre estoy emocionado por colaborar en proyectos interesantes y aprender de la comunidad. Si compartes intereses similares o simplemente deseas conectarte, no dudes en contactarme:
-
 - 📧 Email: estevezmunozalvaro@gmail.com
 - 💼 LinkedIn: [Álvaro Estévez](www.linkedin.com/in/álvaro-estévez-muñoz-99484b215)
 
