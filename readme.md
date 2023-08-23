@@ -24,7 +24,7 @@ Soy Álvaro, un administrador de sistemas apasionado por la tecnología y en con
 ## Estadísticas de GitHub 📊
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvaroem17&show_icons=true&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroem17)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvaroem17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=alvaroem17&theme=dark)](https://git.io/streak-stats)
 
 ¡Gracias por visitar mi perfil! Espero poder colaborar y aprender junto a la comunidad de GitHub.
