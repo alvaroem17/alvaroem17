@@ -13,7 +13,7 @@ Soy Álvaro, un administrador de sistemas apasionado por la tecnología y en con
 ![Bash](https://img.icons8.com/color/48/000000/console.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroem17)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroem17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contacto 📬
