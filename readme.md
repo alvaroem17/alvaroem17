@@ -1,6 +1,6 @@
 # ¡Hola, mundo! 👋
 
-Soy Álvaro, un administrador de sistemas apasionado por la tecnología y en constante búsqueda de nuevas oportunidades para aprender y crecer. Mi viaje profesional me ha llevado a explorar el emocionante mundo de la programación, y actualmente estoy enfocado en convertirme en un Desarrollador Web.
+Soy Álvaro, un full-stack developer apasionado por la tecnología y en constante búsqueda de nuevas oportunidades para aprender y crecer. Mi viaje profesional me ha llevado a explorar el emocionante mundo de la programación, y actualmente estoy enfocado en convertirme en un Desarrollador Web.
 
 ## Tecnologías que Utilizo 🚀
 <p align="left">
